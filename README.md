@@ -10,9 +10,7 @@ An API created using NodeJS for the doctors of a hospital to cater to the need o
 
 Clone the project
 
-```bash
-  git clone https://github.com/Manjeetk1248/hospital-api
-```
+
 
 Go to the project directory
 
@@ -35,7 +33,7 @@ Start the server
   
 ## Documentation
 
-Root Hosted Link - (https://manjeetk1248.github.io/hospital-api/)
+
 Routes :
 
     a. /doctors/register - Registers a new Doctor.
